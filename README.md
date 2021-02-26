@@ -68,4 +68,4 @@ The script works as follows:<br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/GpZ4nMd/5.png" alt="5" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/RNDY8GP/6.png" alt="6" border="0"></a>
 <a href="https://ibb.co/16w0dGw"><img src="https://i.ibb.co/q5PDWYP/7.png" alt="7" border="0"></a>
-<a href="https://ibb.co/Zh2VRnV"><img src="https://i.ibb.co/y84XmwX/8.png" alt="8" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'>json val</a><br />
+<a href="https://ibb.co/Zh2VRnV"><img src="https://i.ibb.co/y84XmwX/8.png" alt="8" border="0"></a><br>
