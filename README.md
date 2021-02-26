@@ -1,5 +1,5 @@
 ## Project Name
-RaspberryPiSecuritySystem
+RaspberryPi Security System
 
 ## Project Description
 This projects represents an enhanced entrance checking system using face recognition and RFID.<br>
