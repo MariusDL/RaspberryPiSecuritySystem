@@ -1,0 +1,31 @@
+ENTRY LOGS WITH TIMESTAMPS
+
+marius -- Sat Oct  3 14:46:31 2020
+marius -- Sat Oct  3 14:46:45 2020
+marius -- Sat Oct  3 15:34:31 2020
+marius -- Sat Oct  3 15:34:36 2020
+marius -- Sat Oct  3 15:35:17 2020
+marius -- Sat Oct  3 15:41:29 2020
+marius -- Sat Oct  3 15:41:58 2020
+marius -- Sat Oct  3 15:42:17 2020
+
+marius -- Sat Oct  3 21:43:28 2020
+marius -- Sat Oct  3 21:48:00 2020
+marius -- Sat Oct  3 21:50:30 2020
+marius -- Sun Oct  4 21:21:36 2020
+marius -- Sun Oct  4 21:22:02 2020
+marius -- Sun Oct  4 21:22:14 2020
+marius -- Sun Oct  4 21:22:47 2020
+marius -- Sun Oct  4 23:44:04 2020
+marius -- Sun Oct  4 23:44:20 2020
+marius -- Sun Oct  4 23:44:43 2020
+marius -- Sun Oct  4 23:46:02 2020
+marius -- Mon Oct  5 03:09:28 2020
+marius -- Mon Oct  5 03:09:42 2020
+marius -- Mon Oct  5 03:10:42 2020
+marius -- Mon Oct  5 03:11:03 2020
+marius -- Mon Oct  5 03:11:11 2020
+marius -- Mon Oct  5 03:13:00 2020
+marius -- Mon Oct  5 03:13:35 2020
+marius -- Mon Oct  5 03:13:55 2020
+marius -- Mon Oct  5 03:14:20 2020
