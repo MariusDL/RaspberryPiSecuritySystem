@@ -44,7 +44,7 @@ The system uses mathematical algorithms to recognise the faces and if the ID car
 -	the unauthorised directory will contain images with the persons that attempted to enter the building but were not allowed<br>
 -	the entrylogs.txt file contains the names of the persons that were allowed to enter the building along with a timestamp<br>
 
-<br> The code to encode the faces is inspired from Adrian Rosebrook’s blog: www.pyimagesearch.com.
+<br> The code to encode and detect the faces is inspired from Adrian Rosebrook’s blog: www.pyimagesearch.com.
 
 ## Usage
 1. Execute the encode_faces.py in a terminal to encode the images with faces so the program can use them. After the successful execution of the script, a file called encodings.pickle is created that contains the 128-d vector face embeddings for the photos in the dataset directory.<br>
